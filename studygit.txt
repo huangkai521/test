@@ -5,3 +5,5 @@ Git is a software under the GPL.
 Git is very good.
 
 Git good.
+
+I love GIT.
