@@ -7,3 +7,5 @@ Git is very good.
 Git good.
 
 I love GIT.
+
+Creating a new branch is quick.
